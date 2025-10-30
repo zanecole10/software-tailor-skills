@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Temporary folders
+*_tmp/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
