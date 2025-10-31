@@ -18,7 +18,7 @@ Turn boring B2B problems into $15K-$50K custom software solutions using AI code 
 
 ---
 
-## 📚 Complete Skill Library (15 Skills)
+## 📚 Complete Skill Library (17 Skills)
 
 ### 💼 Client Acquisition (Find & Win Clients)
 
@@ -161,6 +161,26 @@ Estimate realistic project timelines with hour breakdowns, buffer calculations, 
 
 ---
 
+### 🧠 Strategic & Research (Level Up Your Business)
+
+#### 16. **10x Vision**
+Activates strategic amplification mode that reveals blind spots, untapped opportunities, and hidden leverage points in any business strategy, entrepreneurship idea, or creative content project.
+
+**Use when:** You're stuck in incremental thinking, need contrarian perspectives, or want to find exponential growth opportunities.
+
+**Example:** "I'll close 10 clients at $15K" → "Build the system once, sell it 50 times, create SaaS version for $120K/year recurring"
+
+---
+
+#### 17. **Niche Research**
+Deep market analysis that downloads an entire industry into your brain. Searches forums, Reddit, industry sites, events, and platforms to uncover pain points, language, opportunities, and the perfect software solution to sell them.
+
+**Use when:** Before targeting a new industry, before discovery calls, before building software, before cold outreach.
+
+**Example:** Input "music venues" → Get where they hang out, top 10 pain points, their exact language, market gaps, perfect software solution ($15K booking + ticketing + contracts system)
+
+---
+
 ## 🚀 How to Install Skills
 
 ### Step 1: Choose a Skill
@@ -198,39 +218,45 @@ In any Claude chat, the skill will automatically activate when relevant, or you 
 - Choose an industry with boring problems
 - Identify specific pain points worth $10K+ to solve
 
-**2. Find Prospects** (Skill #11: Cold Outreach Generator)
+**2. Deep Niche Research** (Skill #17: Niche Research)
+- Discover where they hang out online
+- Learn their exact language and lingo
+- Understand their biggest pain points
+- Find the perfect software solution for them
+
+**3. Find Prospects** (Skill #11: Cold Outreach Generator)
 - Send 20-30 cold emails/week
 - Book 2-5 discovery calls/month
 
-**3. Conduct Discovery** (Skill #2: Discovery Questions)
+**4. Conduct Discovery** (Skill #2: Discovery Questions)
 - Use 30-50 strategic questions
 - Quantify their pain ($91K/year wasted)
 
-**4. Create Blueprint** (Skill #1: Problem to Blueprint)
+**5. Create Blueprint** (Skill #1: Problem to Blueprint)
 - Turn their problem into technical spec
 - Generate complete CLAUDE.md file
 
-**5. Price the Project** (Skill #3: Pricing Calculator)
+**6. Price the Project** (Skill #3: Pricing Calculator)
 - Calculate value-based pricing ($15K-$25K)
 - Justify with ROI calculation
 
-**6. Send Proposal** (Skill #7: Proposal Generator)
+**7. Send Proposal** (Skill #7: Proposal Generator)
 - Professional proposal + contract
 - 50/25/25 payment structure
 
-**7. Build the Software** (Skill #5: Tech Stack + #6: Feature Prioritization)
+**8. Build the Software** (Skill #5: Tech Stack + #6: Feature Prioritization)
 - Use Next.js + Supabase + Vercel
 - Build MVP first, Phase 2 later
 
-**8. Demo & Close** (Skill #9: Demo Script)
+**9. Demo & Close** (Skill #9: Demo Script)
 - Show transformation, not features
 - Collect final payment
 
-**9. Add Recurring Revenue** (Skill #10: Maintenance Packages)
+**10. Add Recurring Revenue** (Skill #10: Maintenance Packages)
 - Offer $500-$2K/month support
 - 30-50% of clients will buy
 
-**10. Upsell More Features** (Skill #14: Upsell Opportunities)
+**11. Upsell More Features** (Skill #14: Upsell Opportunities)
 - Phase 2 features ($7K)
 - Integrations ($3K-$5K)
 - Turn $15K clients into $30K+ clients
@@ -242,18 +268,19 @@ In any Claude chat, the skill will automatically activate when relevant, or you 
 **Using the complete system:**
 
 1. **Niche Finder:** Identify fire inspection companies have software problems
-2. **Cold Outreach:** Send 25 emails, book 3 discovery calls
-3. **Discovery Questions:** Ask 50 questions, uncover $91K/year waste
-4. **Blueprint:** Create complete technical spec in CLAUDE.md format
-5. **Pricing:** Calculate $18K price based on ROI
-6. **Proposal:** Send professional proposal, get 50% deposit ($9K)
-7. **Tech Stack:** Use Next.js + Supabase + Vercel
-8. **Feature Prioritization:** MVP ($18K) now, Phase 2 ($7K) later
-9. **Onboarding:** Professional welcome email + kickoff meeting
-10. **Build:** Use blueprint to guide Claude Code
-11. **Demo:** Present with wow moments, collect final $9K
-12. **Maintenance:** Upsell $1K/month support package
-13. **Upsell:** Add Phase 2 ($7K) + QuickBooks integration ($3K)
+2. **Niche Research:** Deep dive into fire inspection forums, Reddit, learn their language ("running inspections," "in the field"), discover pain points
+3. **Cold Outreach:** Send 25 emails using their language, book 3 discovery calls
+4. **Discovery Questions:** Ask 50 questions, uncover $91K/year waste
+5. **Blueprint:** Create complete technical spec in CLAUDE.md format
+6. **Pricing:** Calculate $18K price based on ROI
+7. **Proposal:** Send professional proposal, get 50% deposit ($9K)
+8. **Tech Stack:** Use Next.js + Supabase + Vercel
+9. **Feature Prioritization:** MVP ($18K) now, Phase 2 ($7K) later
+10. **Onboarding:** Professional welcome email + kickoff meeting
+11. **Build:** Use blueprint to guide Claude Code
+12. **Demo:** Present with wow moments, collect final $9K
+13. **Maintenance:** Upsell $1K/month support package
+14. **Upsell:** Add Phase 2 ($7K) + QuickBooks integration ($3K)
 
 **Total from one client:** $18K initial + $7K Phase 2 + $3K integration + $12K/year support = **$40K first year**
 
@@ -354,9 +381,10 @@ Built to help non-technical entrepreneurs start software businesses using AI cod
 
 1. **Install 2-3 core skills** (Blueprint, Discovery Questions, Pricing)
 2. **Pick a niche** using Niche Opportunity Finder
-3. **Send 25 cold emails** this week using Cold Outreach Generator
-4. **Book your first discovery call**
-5. **Use these skills to win your first $15K client**
+3. **Deep research the niche** using Niche Research skill
+4. **Send 25 cold emails** this week using Cold Outreach Generator (in their language!)
+5. **Book your first discovery call**
+6. **Use these skills to win your first $15K client**
 
 **The skills work. The system works. Now execute.**
 
